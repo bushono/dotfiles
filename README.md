@@ -2,9 +2,9 @@
 
 My dots... ;P
 
-## VS Code global user snippets
+## VS Code user config
 
-VS Code/snippets
+code/User
 
 ## Install
 
