@@ -4,7 +4,7 @@ My dots... ;P
 
 ## VS Code user config
 
-code/User
+.config/code/User
 
 ## Install
 
